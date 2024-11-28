@@ -1,0 +1,14 @@
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\bin\Debug\net8.0\Task3.exe
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\bin\Debug\net8.0\Task3.deps.json
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\bin\Debug\net8.0\Task3.dll
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\bin\Debug\net8.0\Task3.pdb
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\Task3.dll
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\refint\Task3.dll
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\Task3.pdb
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+F:\Back End .NET\Tasks\Exc3\task3\Task3\Task3\obj\Debug\net8.0\ref\Task3.dll
